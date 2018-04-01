@@ -28,8 +28,9 @@
          ><big><strong> <em>BuyDevice</em></strong></big></h2>
    </div>
 <h2 style="
+font-size: 2vw;
 position: absolute;
-top: 7.3vh;
+top: 9vh;
 left: 43vw;
 color:#536DFE;
 ">Регистрация</h2>
