@@ -30,16 +30,6 @@
             top: 0.1vh;"
          ><big><strong> <em>BuyDevice</em></strong></big></h2>
    </div>
-     <html>
-<head>
-    <meta charset="UTF-8">
-    <title>22 лучших формы входа и регистрации | Vladmaxi.net</title>
-    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
-    <link rel="icon" href="http://vladmaxi.net/favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="http://vladmaxi.net/favicon.ico" type="image/x-icon">
-</head>
-
-<body>
   <div id="login">
   <div class="flip">
     <div class="form-signup">
