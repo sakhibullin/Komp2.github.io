@@ -16,7 +16,7 @@
 <body>
 <div style="
     width: 100vw;
-    height: 5vw;
+    height: 6.5vw;
     position: absolute;
     top: 0vh;
     left: 0vw;
