@@ -44,7 +44,3 @@
         </form>
         <p>Войти через: <span class="social fb">Facebook</span> <span class="social gp">Google +</span></p>
         <a href="#" class="flipper">Уже зарегистрированы? Войти.</a>
-    </div>
-</div>
-</body>
-</html>
