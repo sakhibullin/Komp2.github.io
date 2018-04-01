@@ -27,6 +27,11 @@
             top: 0.1vh;"
          ><big><strong> <em>BuyDevice</em></strong></big></h2>
    </div>
-
+<h2 style="
+position: absolute;
+top: 7.3vh;
+left: 43vw;
+color:#536DFE;
+">Регистрация</h2>
 </body>
 </html>
