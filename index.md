@@ -71,11 +71,7 @@
     </div>
   </div>
 </div>
-<<<<<<< HEAD
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
   <script src="js/index.js"></script>
-=======
->>>>>>> 1c762bf1e0893bc097308585f7d919d309bd6026
-
 </body>
 </html>
