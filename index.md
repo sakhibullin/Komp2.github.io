@@ -12,6 +12,8 @@
 <meta name="keywords" content="Купить компьютер,Девайсы,BuyDevice"/>
 <meta name="description" content=""/>
 <meta name="og:title" content="" />
+	  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script src="index.js"></script>
 <link rel="stylesheet" href="style.css" media="screen" type="text/css" />
     <link rel="icon" href="http://vladmaxi.net/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="http://vladmaxi.net/favicon.ico" type="image/x-icon">
@@ -61,7 +63,6 @@
     </div>
   </div>
 </div>
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-  <script src="index.js"></script>
+
 </body>
 </html>
