@@ -12,6 +12,9 @@
 <meta name="keywords" content="Купить компьютер,Девайсы,BuyDevice"/>
 <meta name="description" content=""/>
 <meta name="og:title" content="" />
+<link rel="stylesheet" href="style.css" media="screen" type="text/css" />
+    <link rel="icon" href="http://vladmaxi.net/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="http://vladmaxi.net/favicon.ico" type="image/x-icon">
 </head>
 <body>
 <div style="
@@ -27,12 +30,38 @@
             top: 0.1vh;"
          ><big><strong> <em>BuyDevice</em></strong></big></h2>
    </div>
-<h2 style="
-font-size: 2vw;
-position: absolute;
-top: 9vh;
-left: 43vw;
-color:#536DFE;
-">Регистрация</h2>
+     <div id="login">
+  <div class="flip">
+    <div class="form-signup">
+      <h1>Регистрация</h1>
+      <fieldset>
+      <p class="login-msg"></p>
+        <form>
+          <input type="email" placeholder="Введите Ваш email адрес..." required />
+          <input type="password" placeholder="Ваш сложный пароль..." required />
+          <input type="text" placeholder="Имя пользователя" required />
+          <input type="submit" value="Зарегистрироваться" />
+        </form>
+        <p>Войти через: <span class="social fb">Facebook</span> <span class="social gp">Google +</span></p>
+        <a href="#" class="flipper">Уже зарегистрированы? Войти.</a>
+      </fieldset>
+    </div>
+    <div class="form-login">
+      <h1>Авторизация</h1>
+      <fieldset>
+        <form>
+          <input type="email" placeholder="Логин или Email" required />
+          <input type="password" placeholder="Пароль" required />
+          <input type="submit" value="ВОЙТИ" />
+        </form>
+        <p>Войти через: <span class="social fb">Facebook</span> <span class="social gp">Google +</span></p>
+        <p><a href="#" class="flipper">Нет аккаунта? Регистрация.</a><br>
+        <a href="#">Забыли пароль?</a></p>
+      </fieldset>
+    </div>
+  </div>
+</div>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script src="index.js"></script>
 </body>
 </html>
