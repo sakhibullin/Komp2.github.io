@@ -41,4 +41,4 @@
           <input type="submit" value="Зарегистрироваться" />
         </form>
         <p>Войти через: <span class="social fb">Facebook</span> <span class="social gp">Google +</span></p>
-        <a href="#" class="flipper">Уже зарегистрированы? Войти.</a>
+        <a href="https://sakhibullin.github.io/Komp3.github.io/" class="flipper">Уже зарегистрированы? Войти.</a>
