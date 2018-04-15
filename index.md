@@ -38,7 +38,7 @@
           <input type="email" placeholder="Введите Ваш email адрес..." required />
           <input type="password" placeholder="Ваш сложный пароль..." required />
           <input type="text" placeholder="Имя пользователя" required />
-          <input type="submit" value="Зарегистрироваться" onClick=“window.location=‘https://sakhibullin.github.io/Kompa.github.io/#’” />
+          <input type="submit" value="Зарегистрироваться" />
         </form>
         <p>Войти через: <span class="social fb">Facebook</span> <span class="social gp">Google +</span></p>
         <a href="#" class="flipper">Уже зарегистрированы? Войти.</a>
