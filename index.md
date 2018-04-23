@@ -40,5 +40,12 @@
           <input type="text" placeholder="Имя пользователя" required />
           <a href="https://sakhibullin.github.io/Kompa.github.io/"><input type="submit" value="Зарегистрироваться"  /></a>
         </form>
+        <a href="https://sakhibullin.github.io/Kompa.github.io/#" style="
+position: absolute;
+top: 27vh;
+left: 4vw;
+width: 45vw;
+height: 9vh;
+        "></a>
         <p>Войти через: <span class="social fb">Facebook</span> <span class="social gp">Google +</span></p>
         <a href="https://sakhibullin.github.io/Komp3.github.io/?" class="flipper">Уже зарегистрированы? Войти.</a>
